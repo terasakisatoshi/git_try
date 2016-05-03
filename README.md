@@ -1,14 +1,5 @@
-# mach
+# Hello
 
-$\sin x$ $\tan x=\frac{\sin x}{\cos x}$
-
-\[
-\sin x
-\]
-
-$$
-\begin{align}
-aadfafd&=aaa\\
-dfaafaf&=bbfgadf
-\end{align}
-$$
+this repo is for python code which is edited on mac
+you can write equation on markdown
+$$\zeta(\xi)=\sum_{n=1}^\infty \frac{1}{n^s}$$
