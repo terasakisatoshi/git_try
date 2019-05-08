@@ -1,6 +1,8 @@
 # Hello
 
-# This repository is just for me. sandbox of git
+# About this repository
+
+This repository is just for me. sandbox of git
 
 You can preview .md file by typing Ctrl+Shift+M on your Atom editor.
 
